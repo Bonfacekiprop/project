@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.exit{
+    text-align: center;
+    color: black;
+    margin-top: 300px;
+    
+}
+.exit:hover{
+    transition: ease-in-out 1.3s;
+    font-size: 1.5em;
+    color: brown;
+}
+
+.main11{
+    width: 100%;
+    height: 50em;
+    background-image: url(images/project2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main10{
+    width: 100%;
+    height:100em ;
+    background-image: url(images/project1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hed-1{
+    background-color: grey;
+    text-align: center;
+    font-size: larger;
+}
